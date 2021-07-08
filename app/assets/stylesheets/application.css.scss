@@ -14,7 +14,10 @@
  *= require_self
  */
  
+ @import 'bootstrap-sprockets';
+ @import 'bootstrap';
+ 
 h1,he,h3 {
     font-family: 'Yomogi',cursive;
 }
-}
+
